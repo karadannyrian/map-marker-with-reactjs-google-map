@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "fa fa-book"
+    },
+    {
+        "id": 2,
+        "name": "fa fa-user"
+    },
+    {
+        "id": 3,
+        "name": "fa fa-car"
+    },
+    {
+        "id": 4,
+        "name": "fa fa-building"
+    },
+    {
+        "id": 5,
+        "name": "fa fa-web"
+    }
+]

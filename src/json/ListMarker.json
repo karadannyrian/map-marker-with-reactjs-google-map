@@ -1,0 +1,112 @@
+[
+    {
+        "id": 0,
+        "name": "Place Of Interest 0",
+        "category": "Category 1",
+        "program": "Program 1",
+        "description": "Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1",
+        "icon": "fa fa-book",
+        "color": "red",
+        "lat": -6.904744,
+        "lon": 107.60981
+    },
+    {
+        "id": 1,
+        "name": "Place Of Interest 1",
+        "category": "Category 1",
+        "program": "Program 1",
+        "description": "Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1",
+        "icon": "fa fa-book",
+        "color": "red",
+        "lat": -6.914744,
+        "lon": 107.61981
+    },
+    {
+        "id": 2,
+        "name": "Place Of Interest 2",
+        "category": "Category 1",
+        "program": "Program 1",
+        "description": "Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1",
+        "icon": "fa fa-book",
+        "color": "red",
+        "lat": -6.924744,
+        "lon": 107.62981
+    },
+    {
+        "id": 3,
+        "name": "Place Of Interest 3",
+        "category": "Category 1",
+        "program": "Program 1",
+        "description": "Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1",
+        "icon": "fa fa-book",
+        "color": "red",
+        "lat": -6.934744,
+        "lon": 107.63981
+    },
+    {
+        "id": 4,
+        "name": "Place Of Interest 4",
+        "category": "Category 1",
+        "program": "Program 1",
+        "description": "Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1",
+        "icon": "fa fa-book",
+        "color": "red",
+        "lat": -6.944744,
+        "lon": 107.64981
+    },
+    {
+        "id": 5,
+        "name": "Place Of Interest 5",
+        "category": "Category 1",
+        "program": "Program 1",
+        "description": "Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1",
+        "icon": "fa fa-book",
+        "color": "red",
+        "lat": -6.954744,
+        "lon": 107.65981
+    },
+    {
+        "id": 6,
+        "name": "Place Of Interest 6",
+        "category": "Category 1",
+        "program": "Program 1",
+        "description": "Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1",
+        "icon": "fa fa-book",
+        "color": "red",
+        "lat": -6.964744,
+        "lon": 107.66981
+    },
+    {
+        "id": 7,
+        "name": "Place Of Interest 7",
+        "category": "Category 1",
+        "program": "Program 1",
+        "description": "Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1",
+        "icon": "fa fa-book",
+        "color": "red",
+        "lat": -6.974744,
+        "lon": 107.67981
+    },
+    {
+        "id": 8,
+        "name": "Place Of Interest 8",
+        "category": "Category 1",
+        "program": "Program 1",
+        "description": "Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1",
+        "icon": "fa fa-book",
+        "color": "red",
+        "lat": -6.984744,
+        "lon": 107.68981
+    },
+    {
+        "id": 9,
+        "name": "Place Of Interest 9",
+        "category": "Category 1",
+        "program": "Program 1",
+        "description": "Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1 Ini adalah map marker test 1",
+        "icon": "fa fa-book",
+        "color": "red",
+        "lat": -6.994744,
+        "lon": 107.69981
+    }
+]
