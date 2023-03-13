@@ -16,7 +16,7 @@ class LandingPage extends Component {
             mapVisible: true,
             modalVisible: false,
             selectedData: null,
-            sideBarVisible: window.location.href.includes('show-list') ? 'show-list' : 'add-new-marker',
+            sideBarVisible: window.location.href.includes('show-list') ? 'show-list' : window.location.href.includes('add-new-marker') ? 'add-new-marker' : '#',
             lat: -6.914744, lon: 107.609810
         }
     }
